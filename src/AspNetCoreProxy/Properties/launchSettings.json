@@ -1,10 +1,7 @@
 {
   "profiles": {
     "AspNetCoreProxy": {
-      "commandName": "Executable",
-      "executablePath": "%userprofile%\\AppData\\Roaming\\npm\\node_modules\\azure-functions-core-tools\\bin\\func.exe",
-      "commandLineArgs": "host start",
-      "workingDirectory": "$(TargetDir)"
+      "commandName": "Project"
     }
   }
 }
